@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Şifre\Şifre\bin\Debug\Şifre.exe.config
+C:\Users\MSI\source\repos\Şifre\Şifre\bin\Debug\Şifre.exe
+C:\Users\MSI\source\repos\Şifre\Şifre\bin\Debug\Şifre.pdb
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.Form1.resources
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.Properties.Resources.resources
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.exe
+C:\Users\MSI\source\repos\Şifre\Şifre\obj\Debug\Şifre.pdb
